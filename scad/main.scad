@@ -836,8 +836,8 @@ module psu_assembly() {
                     atx_bracket_assembly();
             else
                 if(psu_width(psu))              // not external PSU
-                    translate([-psu_length(psu) / 2, psu_width(psu) / 2, 0])
-                        mains_inlet_assembly();
+                    //translate([-psu_length(psu) / 2, psu_width(psu) / 2, 0])
+                   //     mains_inlet_assembly();
 
             if(exploded)
                 %color([0.5,0.5,0.5,0.5]) psu(psu);

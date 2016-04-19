@@ -39,11 +39,11 @@ frame_corners = 25;
 frame_nuts = true;
 
 case_fan = fan80x38;
-psu = ALPINE500;
-controller = Melzi;
-spool = spool_300x85;
-bottom_limit_switch = false;
-top_limit_switch = true;
+psu = S_300_12;
+//controller = Melzi;
+//spool = spool_300x85;
+bottom_limit_switch = true;
+top_limit_switch = false;
 
 single_piece_frame = true;
 stays_from_window = false;
@@ -59,14 +59,14 @@ X_belt = GT2x6;
 Y_belt = GT2x6;
 
 motor_shaft = 5;
-Z_screw_dia = 6;            // Studding for Z axis
+Z_screw_dia = 8;            // Studding for Z axis
 
 Y_carriage_depth = bed_holes[1] + 7;
 Y_carriage_width = bed_holes[0] + 7;
 
-Z_nut_radius = M6_nut_radius;
-Z_nut_depth = M6_nut_depth;
-Z_nut = M6_nut;
+Z_nut_radius = M8_nut_radius;
+Z_nut_depth = M8_nut_depth;
+Z_nut = M8_nut;
 
 //
 // Default screw use where size doesn't matter
