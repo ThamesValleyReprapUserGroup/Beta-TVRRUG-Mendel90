@@ -14,7 +14,7 @@
                "architecture": "avr",
                "version": "1",
                "category": "Arduino",
-               "url": "https://github.com/ThamesValleyReprapUserGroup/Beta-TVRRUG-Mendel90/tree/master/Added-Documents/OMC/raw/master/OMC.zip",
+               "url": "https://github.com/ThamesValleyReprapUserGroup/Beta-TVRRUG-Mendel90/raw/master/Added-Documents/OMC/OMC.zip",
                "archiveFileName": "OpenTRV_0.0.3.zip",
                "checksum": "SHA-256:0c9d86da723a4b6876aab97ed039efd0d4044fced6aa3f44426e816a4102be91",
                "size": "1527",
