@@ -23,7 +23,7 @@
                },
                "boards": [
                   {
-                     "name": "omc"
+                     "name": "OMC"
                   }
                ],
               "toolsDependencies": [
