@@ -10,7 +10,7 @@
          },
          "platforms":[
             {
-               "name": "OMC",
+               "name": "omc",
                "architecture": "avr",
                "version": "1.0",
                "category": "Arduino",
@@ -23,7 +23,7 @@
                },
                "boards": [
                   {
-                     "name": "OMC"
+                     "name": "omc"
                   }
                ],
               "toolsDependencies": [
