@@ -10,7 +10,7 @@
          },
          "platforms":[
             {
-               "name": "omc",
+               "name": "OMC",
                "architecture": "avr",
                "version": "1.0",
                "category": "Arduino",
