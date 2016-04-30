@@ -2,7 +2,7 @@ Open IDE
 Press Ctrl + Comma
 Insert following link in additonal board manager URLs near the bottom (one url each line should you have any beforehand)
 
-https://raw.githubusercontent.com/opentrv/OpenTRV-Config/master/Arduino/package_opentrv_index.json
+https://raw.githubusercontent.com/ThamesValleyReprapUserGroup/Beta-TVRRUG-Mendel90/master/Added-Documents/OMC/package_omc_index.json
 
 HINT: pres the button at the end of the box to open a small editor and insert link there
 
