@@ -1,1 +1,48 @@
+{
+   "packages":[
+      {
+         "name":"SAV MK1",
+         "maintainer":"TVRRUG",
+         "websiteURL":"http://www.tvrrug.org.uk/",
+         "email":" ",
+         "help":{
+            "online":" "
+         },
+         "platforms":[
+            {
+               "name": "SAV MK1",
+               "architecture": "avr",
+               "version": "1.0",
+               "category": "Arduino",
+               "url": "https://github.com/ThamesValleyReprapUserGroup/Beta-TVRRUG-Mendel90/raw/master/Added-Documents/SAV/SAV_MK1.zip",
+               "archiveFileName": "SAV_MK1.zip",
+               "checksum": "SHA-256:f5faad15938afcff99b922afc6eb199d4dbbb04cbc0bf977c2b15ab0a16c6a5b",
+               "size": "771320",
+               "help":{
+                  "online":" "
+               },
+               "boards": [
+                  {
+                     "name": "SAV MK1"
+                  }
+               ],
+              "toolsDependencies": [
+                {
+                  "packager": "arduino",
+                  "name": "avr-gcc",
+                  "version": "4.8.1-arduino5"
+                },
+                {
+                  "packager": "arduino",
+                  "name": "avrdude",
+                  "version": "6.0.1-arduino5"
+                }
+              ]
+            }
+         ],
 
+         "tools":[
+         ]
+      }
+   ]
+}
