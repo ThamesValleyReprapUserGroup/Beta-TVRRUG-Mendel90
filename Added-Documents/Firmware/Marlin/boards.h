@@ -75,6 +75,7 @@
 #define BOARD_MEGATRONICS_3     703  // Megatronics v3.0
 #define BOARD_OMCA_A            90   // Alpha OMCA board
 #define BOARD_OMCA              91   // Final OMCA board
+#define BOARD_OMC2560           92   // Final OMCA board with ATMEGA2560 chip upgrade
 #define BOARD_RAMBO             301  // Rambo
 #define BOARD_MINIRAMBO         302  // Mini-Rambo
 #define BOARD_AJ4P              303  // AJ4P

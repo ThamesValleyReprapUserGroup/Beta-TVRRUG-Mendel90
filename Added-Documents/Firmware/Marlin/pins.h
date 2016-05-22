@@ -121,6 +121,8 @@
   #include "pins_OMCA_A.h"
 #elif MB(OMCA)
   #include "pins_OMCA.h"
+#elif MB(OMC2560)
+ #include "pins_OMC2560.h"  
 #elif MB(RAMBO)
   #include "pins_RAMBO.h"
 #elif MB(MINIRAMBO)
