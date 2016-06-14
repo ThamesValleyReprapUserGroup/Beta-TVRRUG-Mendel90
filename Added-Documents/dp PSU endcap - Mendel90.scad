@@ -7,6 +7,8 @@
 // 141226 DP Changes to strengthen indent and enable plug clip to engage
 // 160105 DP changes for Mendel90 version with socket on side rather than top
 //
+$fn=360;
+
 width=112;
 depth=60;
 height=50;
